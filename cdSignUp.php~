@@ -1,0 +1,7 @@
+<html>
+  <body>
+    Welcome <?php echo $_POST["fname"] + " " + $_POST["lname"]; ?> ! <br />
+    You're password is <?php echo $_POST["pwd"]; ?> . <br />
+    </body>    
+</html>
+	
