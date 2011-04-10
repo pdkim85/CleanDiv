@@ -1,2 +1,2 @@
 rm:
-	rm -f *.~
+	rm -f *.php~ *.html~
